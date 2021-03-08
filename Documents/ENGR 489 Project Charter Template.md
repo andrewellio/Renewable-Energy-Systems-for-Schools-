@@ -34,6 +34,6 @@ ENGR 489 project advertisement here.*
 | Name | Organisation | Role | Contact | Email |
 | ---- | ------------ | ---- | ------- | ----- |
 | Elliott Andrews | Victoria University of Wellington | Project Manager | 0278818500 |  |
-| *Supervisor Name* | ECS | Project Supervisor | *Phone number* |  |
+| Jim Hinkley | ECS | Project Supervisor | 04 463 5515 |  |
 | *Collaborator Name* | *Organisation* | *Industry Collaborator* | *Phone number* |  |
 
