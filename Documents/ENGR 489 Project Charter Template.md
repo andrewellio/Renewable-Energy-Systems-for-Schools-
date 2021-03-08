@@ -4,7 +4,7 @@
 ### Project Charter
 
 **Project Start Date:** 08 March 2021<br>
-**Project End Date:** dd October 2021
+**Project End Date:** 22 October 2021 (approx.)
 
 #### Key Dates
 
