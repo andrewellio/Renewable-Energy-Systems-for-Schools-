@@ -1,5 +1,5 @@
-# Project Long Title
-## ENGR 489 Project (YYYY)
+# Renewable Energy Systems for Schools
+## ENGR 489 Project 2021
 
 ### Project Charter
 
