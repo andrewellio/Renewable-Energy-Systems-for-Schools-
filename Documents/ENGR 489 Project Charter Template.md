@@ -3,8 +3,8 @@
 
 ### Project Charter
 
-**Project Start Date:** dd March YYYY<br>
-**Project End Date:** dd October YYYY
+**Project Start Date:** 08 March 2021<br>
+**Project End Date:** dd October 2021
 
 #### Key Dates
 
@@ -18,7 +18,7 @@
 
 **Budget Information:** Expenses paid from ...
 
-**Project Manager:** _Student Name_
+**Project Manager:** Elliott Andrews
 
 **Project Objectives:** *Typically will put a modified form of the description from the 
 ENGR 489 project advertisement here.*
@@ -33,7 +33,7 @@ ENGR 489 project advertisement here.*
 
 | Name | Organisation | Role | Contact | Email |
 | ---- | ------------ | ---- | ------- | ----- |
-| *Student Name* | *School* | Project Manager | *Phone number* |  |
+| Elliott Andrews | Victoria University of Wellington | Project Manager | 0278818500 |  |
 | *Supervisor Name* | ECS | Project Supervisor | *Phone number* |  |
 | *Collaborator Name* | *Organisation* | *Industry Collaborator* | *Phone number* |  |
 
