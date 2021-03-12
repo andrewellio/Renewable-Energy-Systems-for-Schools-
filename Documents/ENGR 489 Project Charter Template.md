@@ -16,7 +16,9 @@
 | Presentation | dd Month | Oral presentation |
 
 
-**Budget Information:** Expenses paid from ...
+**Budget Information:** 
+[Statement via Project Proposal](https://gitlab.ecs.vuw.ac.nz/course-work/project489/2021/andrewelli/renewable-energy-systems-for-schools/-/blob/master/Images/Capture.PNG)
+
 
 **Project Manager:** Elliott Andrews
 
