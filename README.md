@@ -19,3 +19,8 @@ Contains the ENGR 489 reports. There are two reports required this year, a Preli
 * LaTeX source files.
 * R, Matlab, etc. files, containing _only_ the figures used in the report at this level.
 * One sub-folder "Figures" to keep figures organised.
+
+
+### Meeting Log
+
+A copy of all meetings with the supervisor can be found [here](https://gitlab.ecs.vuw.ac.nz/course-work/project489/2021/andrewelli/renewable-energy-systems-for-schools/-/wikis/Meeting-Log).
