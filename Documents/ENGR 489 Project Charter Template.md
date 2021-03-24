@@ -41,5 +41,4 @@ potential energy production.
 | ---- | ------------ | ---- | ------- | ----- |
 | Elliott Andrews | Victoria University of Wellington | Project Manager | 0278818500 |  |
 | Jim Hinkley | ECS | Project Supervisor | 04 463 5515 |  |
-| *Collaborator Name* | *Organisation* | *Industry Collaborator* | *Phone number* |  |
 
