@@ -10,7 +10,7 @@
 
 | Name | Date | Deliverable |
 | --- | --- | --- |
-| Project Proposal | dd Month | Written proposal (plan) |
+| Project Proposal | 19 March | Written proposal (plan) |
 | Preliminary Report | dd Month | Written report |
 | Final Report | dd Month | Written report |
 | Presentation | dd Month | Oral presentation |
@@ -22,8 +22,12 @@
 
 **Project Manager:** Elliott Andrews
 
-**Project Objectives:** *Typically will put a modified form of the description from the 
-ENGR 489 project advertisement here.*
+**Project Objectives:** The aims for this project are to:
+
+- Evaluate existing renewable technologies and their costs from current suppliers.
+- Present findings to schools based on their estimated seasonal energy consumption and
+potential energy production.
+- Highlight the most practical solutions based on cost, viability, and possible energy storage.
 
 #### Approach
 
