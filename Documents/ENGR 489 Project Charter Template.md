@@ -10,10 +10,9 @@
 
 | Name | Date | Deliverable |
 | --- | --- | --- |
-| Project Proposal | 19 March | Written proposal (plan) |
-| Preliminary Report | dd Month | Written report |
+| Project Proposal | 19 March | Written proposal |
+| Preliminary Report | 24 May | Written report |
 | Final Report | dd Month | Written report |
-| Presentation | dd Month | Oral presentation |
 
 
 **Budget Information:** 
@@ -31,9 +30,9 @@ potential energy production.
 
 #### Approach
 
-*  Milestone 1: *By agreement*
-*  Milestone 2: *By agreement*
-*  Milestone 3: *By agreement*
+*  Milestone 1: Interview Schools
+*  Milestone 2: Calculate compare and contrast energy consumption costs
+*  Milestone 3: Report back to schools, based on final report
 
 #### Roles and Responsibilities
 
